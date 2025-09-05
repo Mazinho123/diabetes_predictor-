@@ -13,13 +13,6 @@ This is a web-based application that predicts whether a person is likely to have
 - Easy-to-use Streamlit interface
 - Can be deployed online for public use
 
----
-
-##  Live Demo
- 
-👉 [https://yourname-diabetes-predictor.streamlit.app](#)
-
----
 
 ##  Technologies Used
 
